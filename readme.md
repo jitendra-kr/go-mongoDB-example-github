@@ -1,4 +1,4 @@
-# GoLang and MongoDB Example Application
+# Go + MongoDB API with Echo (Simple & Efficient)
 
 This is a simple go example/sample application demonstrating how to perform CRUD (Create, Read, Update, Delete) operations using GoLang and MongoDB, with the [Echo](https://echo.labstack.com) framework.
 
