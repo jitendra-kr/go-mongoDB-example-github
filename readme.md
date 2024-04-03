@@ -8,14 +8,17 @@ Before running this application, ensure you have the following installed:
 
 - Go (Golang): [Installation Guide](https://golang.org/doc/install)
 - MongoDB: [Installation Guide](https://docs.mongodb.com/manual/installation/)
+
+## Generate Sample Data (Optional)
 - Sample Data [Random String Generator](https://www.fireboxtools.com/text-tools/random-string-generator) 
+
 
 ## Setup
 
 1. Clone this repository:
 
     ```bash
-    git clone <repository_url>
+    git clone https://github.com/jitendra-kr/go-mongoDB-example-github
     ```
 
 2. Install Go dependencies:
